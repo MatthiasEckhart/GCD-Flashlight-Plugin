@@ -1,0 +1,9 @@
+{
+    "name": "gcd",
+    "displayName": "Greatest Common Divisor",
+    "description": "Calculates the GCD of a set of two numbers",
+    "examples": ["gcd 48 8"],
+    "categories": ["Information"],
+    "creator_name": "Matthias Eckhart",
+    "creator_url": "http://matthias.eckhart.me"
+}
